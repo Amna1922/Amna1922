@@ -1,9 +1,9 @@
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square" alt="Profile Views" />
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername) 
-  [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/amna-zubair-gill)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amna1922) 
+  [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amna.zubairgill@gmail.com)
 </div>
 
 <h1 align="left">I'm Amna Zubair</h1>
@@ -29,9 +29,3 @@ I'm a Data Science student at FAST NUCES, Islamabad with a passion for transform
 
 **Tools & Platforms:**  
 `Jupyter` · `VS Code` · `Git/GitHub` · `.NET/C#`
-
-
-
-- 📧 Email: [your.email@gmail.com](mailto:your.email@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin/)
-- 💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
