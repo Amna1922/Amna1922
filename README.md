@@ -14,7 +14,7 @@ I'm a 6th-semester Data Science student who builds across the entire data stack 
 
 ---
 
-## 🔍 What I Do
+##  What I Do
 
 | Domain | What I've Built |
 |--------|----------------|
@@ -27,27 +27,27 @@ I'm a 6th-semester Data Science student who builds across the entire data stack 
 
 ---
 
-## 📁 Featured Projects
+##  Featured Projects
 
-### 🤖 AI / Deep Learning
+###  AI / Deep Learning
 - **MARL Codebook Repair** — Entropy monitor detecting vocabulary collapse in 1 step + LoRA delta repair for bandwidth-constrained multi-agent communication
 - **Logical Fallacy Detection** — Parallel inference pipeline (DistilBERT, FAISS IVF, RAG-T5) achieving 4.66x throughput (48.1 texts/sec) with contrastive CPACE explanations
 
-### 📊 Data Engineering & Warehousing
+###  Data Engineering & Warehousing
 - **Near-Real-Time Retail Warehouse** — HYBRIDJOIN-based streaming ETL pipeline, star schema design, drill-down/roll-up analytics (Walmart case study)
 - **NASCON Event Management System** — Role-based access control (DCL), SQL JOINs, views, stored procedures, triggers, events for national convention operations
 
-### 📈 Data Analytics & Visualization
+###  Data Analytics & Visualization
 - **Global Disaster Resilience Analysis** — Integrated EM-DAT, World Bank, climate data → engineered DII/RRS/CRI indices → Tableau dashboards
 - **Global Power Plants Dashboard** — D3.js semantic-zoom map + force-directed clustering + brushable timeline (10k+ records, coordinated multiple views)
 
-### 🚁 Optimization & Algorithms
+###  Optimization & Algorithms
 - **AeroNet Lite Drone Simulator** — CSP grid validation (3 algorithms), Genetic Algorithm fleet optimization (population=30, 20% mutation), A* pathfinding with real-time disruption handling
 - **Packaging Efficiency Optimizer** — Lagrange multipliers + Python visualization for material usage minimization
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages:** `Python` · `R` · `SQL` · `C++` · `C#` · `.asm`
 
@@ -85,7 +85,7 @@ I'm a 6th-semester Data Science student who builds across the entire data stack 
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 - **Email:** amna.zubairgill@gmail.com
 - **LinkedIn:** [linkedin.com/in/amna-zubair-gill](https://www.linkedin.com/in/amna-zubair-gill)
