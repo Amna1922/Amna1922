@@ -7,7 +7,7 @@
 <h3 align="center">Data Science @ FAST NUCES | Building Across Data Engineering, Analytics & AI/ML</h3>
 
 <p align="left">
-I'm a 6th-semester Data Science student who builds across the entire data stack — from streaming ETL pipelines and star-schema warehouses to MARL communication systems and NLP fallacy detectors. I don't just train models; I build systems that scale, adapt, and explain themselves.
+I'm a Data Science student who builds across the entire data stack — from streaming ETL pipelines and star-schema warehouses to MARL communication systems and NLP fallacy detectors. I don't just train models; I build systems that scale, adapt, and explain themselves.
 </p>
 
 ---
